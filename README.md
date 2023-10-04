@@ -8,4 +8,4 @@ npm run server
 npm run dev
 
 # Demo 
-<img width="1433" alt="Screenshot 2023-09-28 at 10 17 01 AM" src="https://github.com/Bhavneet345/TextChat-AI-Assistant/assets/84433782/1a046fe5-fd95-4cf3-bbc2-a230ba507a2d">          
+<img width="1440" alt="Screenshot 2023-10-04 at 9 49 35 PM" src="https://github.com/Bhavneet345/TextChat-AI/assets/84433782/3b93ad89-6f68-4e53-958e-54967da089fb">
