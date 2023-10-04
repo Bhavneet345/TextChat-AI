@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TextChat-AI</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="app">
+      <div id="chat_box"></div>
+      <form id="user_query_form">
+        <textarea name="prompt_area" id = "prompt_area" rows="1" cols="200" placeholder="Ask me....."></textarea>
+        <button type="submit">
+          <img src="assets/send.svg" alt="image_not_available" style="width: 30px;height: 30px;">
+        </button>
+      </form>
+    </div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
