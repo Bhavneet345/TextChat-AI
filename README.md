@@ -15,7 +15,7 @@ npm run server
 # To run client
 npm run dev
 
-#Steps for the execution
+# Steps for the execution
 1. Move to the server directory and run the server as per the command mentioned above.
 2. Move to the client directory and run the client as per the command mentioned above.
 3. Copy the localhost URL of the client directory and paste it into the local browser.
