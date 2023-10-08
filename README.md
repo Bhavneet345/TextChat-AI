@@ -43,5 +43,5 @@ Implemented a user-friendly interface for answering user questions by utilizing 
 ## Customization
 You can customize the AI chatbot's behavior by modifying the underlying AI model, training data, or chatbot configuration.
 
-## Demo 
+## Demo (https://text-chat-ai-t63c-git-main-bhavneet345s-projects.vercel.app/)
 <img width="1440" alt="Screenshot 2023-10-04 at 9 49 35 PM" src="https://github.com/Bhavneet345/TextChat-AI/assets/84433782/3b93ad89-6f68-4e53-958e-54967da089fb">
