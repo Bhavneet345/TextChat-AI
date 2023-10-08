@@ -24,7 +24,7 @@ Implemented a user-friendly interface for answering user questions by utilizing 
    ```cd server```
 3. For server
    
-   ```npm run server```
+   ```npm start```
 4. Move to the client directory
    
    ```cd client```
