@@ -72,7 +72,7 @@ const submit = async function(e) {
 
     loadMessages(messagediv);
 
-    const response = await fetch('http://localhost:3000', {
+    const response = await fetch('https://text-chat-ai.vercel.app/', {
         method: 'POST', 
         headers: {
             'Content-Type': 'application/json'
