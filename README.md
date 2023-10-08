@@ -9,7 +9,7 @@ Implemented a user-friendly interface for answering user questions by utilizing 
 5. cors
 6. nodemon
 
-## To run Server
+## To run Server (https://text-chat-ai.vercel.app/)
    ```npm run server```
 
 ## To run client
