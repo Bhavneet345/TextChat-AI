@@ -12,7 +12,7 @@ Implemented a user-friendly interface for answering user questions by utilizing 
 ## To run Server (https://text-chat-ai.vercel.app/)
    ```npm run server```
 
-## To run client
+## To run client (https://text-chat-ai-t63c-git-main-bhavneet345s-projects.vercel.app/)
    ```npm run dev```
 
 ## Steps for the execution
