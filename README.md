@@ -1,5 +1,5 @@
 # TextChat-AI
-Implemented a user-friendly interface for answering user questions by utilizing the GPT model API. Seamlessly integrated JavaScript to enable the smooth functioning of the API and enhance user interaction. Executed both Google authentication and manual authentication methods, ensuring secure access for individual users.Designed and developed a robust sign-in system to enhance user privacy and data security.Demonstrated proficiency in API integration and authentication methods to facilitate seamless user experiences.Contributed to a user-centric design, allowing users to access and utilize the GPT model API effectively.
+Implemented a user-friendly interface for answering user questions using the GPT model API. Seamlessly integrated JavaScript to enable the smooth functioning of the API and enhance user interaction. Demonstrated proficiency in API integration and authentication methods to facilitate seamless user experiences.Contributed to a user-centric design, allowing users to effectively access and utilize the GPT model API.
 
 ## System Requirements
 1. node
