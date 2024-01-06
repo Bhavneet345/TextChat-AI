@@ -1,5 +1,5 @@
 # TextChat-AI
-Implemented a user-friendly interface for answering user questions using the GPT model API. Seamlessly integrated JavaScript to enable the smooth functioning of the API and enhance user interaction. Demonstrated proficiency in API integration and authentication methods to facilitate seamless user experiences.Contributed to a user-centric design, allowing users to effectively access and utilize the GPT model API.
+Implemented a user-friendly interface for answering user questions using the GPT model API. Seamlessly integrated JavaScript to enable the smooth functioning of the API and enhance user interaction. Demonstrated proficiency in API integration methods to facilitate seamless user experiences. Contributed to a user-centric design, allowing users to effectively access and utilize the GPT model API.
 
 ## System Requirements
 1. node
